@@ -33,4 +33,4 @@ check out my [resume](https://docs.google.com/document/d/11EUngGVlhAPAdYUGzo0UIk
 [https://ibraheem-areeda.github.io/Personal-Portfolio/](https://ibraheem-areeda.github.io/Personal-Portfolio/)
 
 ### Contact
-I will be happy to haer your opinion feel free to contact me by e-mail : ibraheem.areeda@Gmail.com
+I will be happy to haer your opinion feel free to contact me by e-mail : ibraheem.areeda@gmail.com
